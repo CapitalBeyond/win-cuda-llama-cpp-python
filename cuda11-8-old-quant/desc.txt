@@ -1,1 +1,2 @@
 old quant win cuda 11.8 1.4.9 12.05.2023
+you need cuba toolkit installed and working (path)
